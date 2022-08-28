@@ -1,0 +1,3 @@
+[submodule "framework-ec"]
+	path = framework-ec
+	url = https://github.com/DHowett/framework-ec
